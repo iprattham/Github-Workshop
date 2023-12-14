@@ -1,3 +1,3 @@
 # Github-Workshop
 
-Git Hu
+Git Hub
